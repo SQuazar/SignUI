@@ -79,6 +79,6 @@ in its UI without additional actions!
 
 <div>
 <ul>
-<li><a href="">Bukkit Plugin page</a></li>
+<li><a href="https://dev.bukkit.org/projects/signui">Bukkit Plugin page</a></li>
 </ul>
 </div>
