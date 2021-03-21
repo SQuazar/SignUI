@@ -1,0 +1,7 @@
+#SignUI configuration file
+#Version 1.0-SNAPSHOT
+
+#Permission signui.ui
+ui-permission: false
+
+already-editing: "&7[&6SignUI&7] &fThis sign already editing by &6%player%&f!"

@@ -1,0 +1,14 @@
+name: SignUI
+version: ${project.version}
+main: net.flawe.signui.SignUI
+prefix: SignUI
+loadbefore: [ ProtocolLib ]
+depend: [ ProtocolLib ]
+authors: [ flaweoff ]
+description: Edit your signs!
+website: https://t.me/flawe_sv
+
+commands:
+  sign:
+    usage: /sign reload
+    description: Reload the plugin
